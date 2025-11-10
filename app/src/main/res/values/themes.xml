@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MediPairing" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Use app blue instead of pink -->
+        <item name="colorPrimary">@color/login_bg</item>
+        <item name="colorSecondary">@color/login_bg</item>
+    </style>
+
+    <style name="Theme.MediPairing" parent="Base.Theme.MediPairing" />
+</resources>

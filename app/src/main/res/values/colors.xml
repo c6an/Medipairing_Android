@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- Blue palette (renamed from previous pink names) -->
+    <color name="blue_bg">#FFFFFFFF</color>
+    <color name="blue_accent">#1778F2</color>
+    <color name="main_bg">#FFFFFFFF</color>
+    <color name="login_bg">#1778F2</color>
+    <color name="medicine_list_bg">#dce9f8</color>
+    <color name="delete_bg">#ae3a1e</color>
+    <color name="test_result_box_bg">#f7f7f7</color>
+    <color name="error_bg">#cb1c00</color>
+</resources>

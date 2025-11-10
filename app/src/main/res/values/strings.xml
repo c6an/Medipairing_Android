@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MediPairing</string>
+    <string name="nav_home">홈</string>
+    <string name="nav_medipairing">메디페어링</string>
+    <string name="nav_mypage">마이페이지</string>
+    <string name="default_web_client_id">502307244449-fq333tnbjipl0joegmf6a09ave5bk929.apps.googleusercontent.com</string>
+    <!-- default_web_client_id is provided by google-services plugin at build time. Do not hardcode here. -->
+</resources>

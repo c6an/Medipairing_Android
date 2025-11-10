@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Selected state -->
+    <item android:state_selected="true">
+        <shape android:shape="oval">
+            <solid android:color="#1778F2"/>
+        </shape>
+    </item>
+    <!-- Default state -->
+    <item android:state_selected="false">
+        <shape android:shape="oval">
+            <solid android:color="@android:color/white"/>
+            <stroke android:width="1.5dp" android:color="#1778F2"/>
+        </shape>
+    </item>
+</selector>

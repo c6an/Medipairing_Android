@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- selected: white text on blue chip -->
+    <item android:state_selected="true" android:color="@android:color/white"/>
+    <!-- default: blue text on white with blue stroke -->
+    <item android:color="@color/login_bg"/>
+</selector>

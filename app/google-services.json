@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "502307244449",
+    "project_id": "medipairing-ae76c",
+    "storage_bucket": "medipairing-ae76c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502307244449:android:c3b6c9d0d9299391d723e0",
+        "android_client_info": {
+          "package_name": "com.example.medipairing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeWDT4nMwx-9I-rIXB5RzlNLnv8hLDuoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
